@@ -1,0 +1,1 @@
+Our final training AUC is 0.5699 and 0.4982 and our final validation AUC is 0.5002 and 0.4962 which is around what the AUC is for a solution ranked #600 on the leaderboard, so around the average solution. The training and validation AUCs are starting to diverge after 5 epochs, so this is probably the optimal training length before we start overfitting.
